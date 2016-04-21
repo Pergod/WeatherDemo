@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="hint">请输入城市名称</string>
+    <string name="search">查询</string>
+    <string name="add">添加</string>
+    <string name="refresh">刷新</string>
+</resources>
